@@ -1,5 +1,5 @@
 # BitmovinPlayer
-# An example code to run bitmovin player in android. 
+# An example code to run bitmovin player in react native android. 
 
 # How to start
 

@@ -38,17 +38,8 @@ export default function App() {
           css: '',
           js: '',
         }}
-        // configuration={{
-        //   url: 'https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd',
-        //   poster: '',
-        //   subtitles: '',
-        //   thumbnails: '',
-        //   startOffset: 0,
-        //   hasNextEpisode: false,
-        // }}
         onLoad={e => console.log('Load', e)}
         onError={e => console.log('Error', e)}
-        
       />
     </View>
   );
